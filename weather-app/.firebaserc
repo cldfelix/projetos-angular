@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "weather-app-bfc3d": {
+      "hosting": {
+        "weather-app": [
+          "weather-app-bfc3d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weather-app-bfc3d"
+  }
+}
